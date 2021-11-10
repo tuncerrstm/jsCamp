@@ -98,3 +98,15 @@ let newProductName,newUnitPrice,newQuantity
 console.log(newProductName)
 console.log(newUnitPrice)
 console.log(newQuantity)
+
+
+let populations = {
+    x: 100,
+    y: 200,
+    z: 300
+} 
+
+let newX , newY, newZ
+({x:newX, y:newY, z:newZ} = populations)
+console.log(newY) 
+
