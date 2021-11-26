@@ -2,6 +2,7 @@
 
 # Hi there, I'm Tundzher. :blush:
 
-## Software Engineer | Backend Developer | C#, Java, React Developer |
+## Software Engineer | C#, Java |
+| Backend Developer | React Developer |
 
 <font color="red"> Coffee coffee is how I keep up with! '<code />' </font>
