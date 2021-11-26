@@ -5,7 +5,7 @@
 ### | Software Engineer | 
 #### | C#, Java, React Developer |
 
-<font color="blue"> Coffee coffee is how I keep up with! `<code />` </font>
+<font color="red"> Coffee is how I keep up with! `<code />` </font>
 
 
 ### Reach out to me!!
@@ -31,6 +31,12 @@
 
 
 
+# Lates Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
 
 <details>
 <summary>:bulb: Github Stats</summary>
